@@ -2,7 +2,7 @@
     package="com.example.team_wave_assigment">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="team_wave_assigment"
+        android:label="TeamWave"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
